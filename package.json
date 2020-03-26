@@ -1,0 +1,12 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.1.0",
+        "client_scripts": [
+                "client/player_speed.lua"
+        ],
+        "auto_updater": {
+             "package.json": "https://raw.githubusercontent.com/vugi99/onset-player-speed/master/package.json",
+             "client/player_speed.lua": "https://raw.githubusercontent.com/vugi99/onset-player-speed/master/client/player_speed.lua"
+        }
+}
